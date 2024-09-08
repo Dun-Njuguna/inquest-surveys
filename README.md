@@ -54,11 +54,7 @@ uvicorn src.main:app --host 0.0.0.0 --port 8000
 
 ## Configuration
 
-Set these environment variables in `.env.example`:
-
-- `DATABASE_URL`
-- `SECRET_KEY`
-- `ACCESS_TOKEN_EXPIRE_MINUTES`
+Set these environment variables in `.env.example`
 
 ## License
 
